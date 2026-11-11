@@ -176,43 +176,43 @@ Para probar el script:
 
 **Menu principal:** muestra las 5 opciones con colores.
 
-![Menu principal](capturas/menu.jpg)
+![Menu principal](capturas/menu.jpeg)
 
 **Opcion 1 - Informe del sistema:** el informe se guarda en el log.
 
-![Opcion 1](capturas/opcion1.jpg)
+![Opcion 1](capturas/opcion1.jpeg)
 
 **Opcion 2 - Control de disco:** muestra el porcentaje de disco usado.
 
-![Opcion 2](capturas/opcion2.jpg)
+![Opcion 2](capturas/opcion2.jpeg)
 
 **Alerta en rojo:** al bajar el umbral a 10, el script avisa que el disco lo supera.
 
-![Alerta de disco](capturas/alerta.jpg)
+![Alerta de disco](capturas/alerta.jpeg)
 
 **Opcion 3 - Limpieza:** elimina temporales y cache.
 
-![Opcion 3](capturas/opcion3.jpg)
+![Opcion 3](capturas/opcion3.jpeg)
 
 **Opcion 4 - Archivos grandes:** busca archivos de mas de 50 MB en una carpeta.
 
-![Opcion 4](capturas/opcion4.jpg)
+![Opcion 4](capturas/opcion4.jpeg)
 
 **Carpeta inexistente:** el script avisa con un mensaje en rojo.
 
-![Error de carpeta](capturas/error_carpeta.jpg)
+![Error de carpeta](capturas/error_carpeta.jpeg)
 
 **Opcion invalida:** el menu valida lo que se ingresa.
 
-![Opcion invalida](capturas/invalida.jpg)
+![Opcion invalida](capturas/invalida.jpeg)
 
 **Opcion 5 - Salir:** el script finaliza.
 
-![Salir](capturas/salir.jpg)
+![Salir](capturas/salir.jpeg)
 
 **Contenido del log:** informes, limpiezas y archivos grandes ordenados por tamano.
 
-![Log](capturas/log.jpg)
+![Log](capturas/log.jpeg)
 
 ## 5. Reflexiones finales
 
